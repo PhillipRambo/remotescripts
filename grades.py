@@ -17,4 +17,4 @@ def calculate_weighted_average(csv_file):
 csv_file_path = 'grades.csv'
 average_grade = calculate_weighted_average(csv_file_path)
 
-print(f"The weighted average grade sut min pik is: " + str(average_grade))
+print(f"The weighted average : " + str(average_grade))
